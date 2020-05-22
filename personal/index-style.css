@@ -1,0 +1,294 @@
+@charset "UTF-8";
+a {
+    text-decoration: none;
+}
+.pic {
+    position: absolute;
+    top: 7px;   
+	left: 80px; 
+    /* background: transparent url(images/tooplate.jpg) 0% 0% no-repeat;  */
+    background-size: cover;
+    opacity: 1;
+    width:100;
+}
+body {
+    position: absolute;
+    background-color: grey;
+}
+#logo {
+    position: absolute;
+    top: 20px;
+    left: 140px;
+    background: transparent url(images/logo.png) 0% 0% no-repeat;
+    opacity: 1; 
+}
+#content {
+    position: absolute;
+    top: 20px;
+    left: 620px;
+}
+#menu {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+#home {
+    position: absolute;
+    top: 25px;
+    left: 70px;
+    color: #e0ddec;
+}
+#white {
+    position: absolute;
+    left: 110px;
+    top: 0px;
+}
+#about {
+    position: absolute;
+    top: 25px;
+    left: 170px;
+    width: 70px;
+    color: #000;
+}
+#ash {
+    position: absolute;
+    left: 220px;
+    top: 0px;
+}
+#blog {
+    position: absolute;
+    top: 25px;
+    left: 290px;
+    color: #000;
+}
+#grey {
+    position: absolute;
+    top: 0px;
+    left: 330px;
+}
+#gallery {
+    position: absolute;
+    top: 25px;
+    left: 395px;
+    color: #000;
+}
+#gray {
+    position: absolute;
+    top: 0px;
+    left: 440px;
+}
+#contact {
+    position: absolute;
+    top: 25px;
+    left: 505px;
+    color: #000;
+}
+ #bx {
+    position: absolute;
+    top: 60px;
+    left: 120px;
+    width: 1150px;
+    height: 470px;
+    background: #4941bb 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+} 
+#picture {
+    position: absolute;
+    top: 70px;
+    left: 90px;
+    background: transparent url(images/block.jpg) 0% 0% no-repeat;
+    opacity: 1; 
+}
+h2 {
+    position: absolute;
+    top: 50px;
+    left: 70px;
+    width: 500px;
+    color: #604db4;
+    font: 35px sans-serif;
+}
+main {
+    position: absolute;
+    top: 305px;
+    left: 120px;
+    width: 1150px;
+    height: 700px;
+    background: #f0efeaf5 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+.sky {
+    position: absolute;
+    top: 150px;
+    left: 35px;
+    background: transparent url(images/cloud.jpg) 0% 0% no-repeat;
+    opacity: 1; 
+    width: 100;
+}
+#block {
+    position: absolute;
+    top: 165px;
+    left: 525px;
+    color: #ccc92c;
+}
+#template {
+    position: absolute;
+    top: 165px;
+    left: 623px;
+    color: #2d23b6;
+}
+#from {
+    position: absolute;
+    top: 165px;
+    left: 766px;
+    color: #ccc92c;
+}
+#tool {
+    position: absolute;
+    top: 165px;
+    left: 799px;
+    color: #2d23b6;
+}
+#credit {
+    position: absolute;
+    top: 165px;
+    left: 865px;
+    color: #ccc92c;
+}
+#free {
+    position: absolute;
+    top: 185px;
+    left: 525px;
+    color: #2d23b6;
+}
+#used {
+    position: absolute;
+    top: 185px;
+    left: 605px;
+    color: #ccc92c;
+}
+#aliquam {
+    position: absolute;
+    top: 230px;
+    left: 525px;
+    word-spacing: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#html {
+    position: absolute;
+    color: #2d23b6;
+    left: 150px;
+}
+#and {
+    position: absolute;
+    left: 215px;
+    top: 55px;
+}
+#css {
+    position: absolute;
+    color: #2d23b6;
+    left: 245px;
+}
+#first {
+    position: absolute;
+    top: 380px;
+    left: 75px;
+}
+#turpis {
+    position: absolute;
+    color: grey;
+    font: normal 15px/20px 'san serif';
+    width: 200px;
+}
+#dolor {
+    position: absolute;
+    color: rgb(32, 7, 90);
+    font: bold 20px/25px "Nunito Sans";
+    width: 200px;
+}
+#lorem {
+    position: absolute;
+    top: 40px;
+    width: 300px;
+    word-spacing: 5px;
+    border-spacing: 10px;
+}
+#link1 {
+    position: absolute;
+    top: 140px;
+    width: 200px;
+}
+#second {
+    position: absolute;
+    top: 380px;
+    left: 450px;
+}
+#semper {
+    position: absolute;
+    color: grey;
+    font: normal 15px/20px 'san serif';
+    width: 200px;
+}
+#donec {
+    position: absolute;
+    color: rgb(32, 7, 90);
+    font: bold 20px/25px "Nunito Sans";
+    width: 300px;
+}
+#pelle {
+    position: absolute;
+    top: 40px;
+    width: 300px;
+    word-spacing: 5px;
+    border-spacing: 10px;
+}
+#link2 {
+    position: absolute;
+    top: 140px;
+    width: 200px;
+}
+#third {
+    position: absolute;
+    top: 380px;
+    left: 800px;
+}
+#consect {
+    position: absolute;
+    color: grey;
+    font: normal 15px/20px 'san serif';
+    width: 200px;
+}
+#etiam {
+    position: absolute;
+    color: rgb(32, 7, 90);
+    font: bold 20px/25px "Nunito Sans";
+    width: 300px;
+}
+#cras {
+    position: absolute;
+    top: 40px;
+    width: 300px;
+    word-spacing: 5px;
+    border-spacing: 10px;
+}
+#link3 {
+    position: absolute;
+    top: 140px;
+    width: 200px;
+}
+footer {
+    position: absolute;
+    background: #85858a 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    top: 950px;
+    width: 1150px;
+    height: 50px;
+    left: 120px;
+}
+#copy {
+    position: absolute;
+    left: 390px;
+    top: 15px;
+}
